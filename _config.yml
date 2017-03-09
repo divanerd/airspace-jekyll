@@ -18,7 +18,8 @@ title: Airspace
 subtitle: "A free HTML5 agency template"
 url: "http://divanerd.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/grewia_project"
+#baseurl: "/grewia_project"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/afrilastic_logo_1.png"
 
